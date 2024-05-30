@@ -1,5 +1,5 @@
 # #Online Bus Ticket Sales
-#### This project was link https://bus-ticket-react-simple1.netlify.app/
+#### This project  link https://bus-ticket-react-simple1.netlify.app/
 ***
 In the project directory, we can use:
 + Buy a bus ticket online system.
